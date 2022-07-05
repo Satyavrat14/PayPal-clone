@@ -2,6 +2,8 @@
 Built using HTML,CSS,JavaScript it is a clone of the one of the largest online payment processors in the world **PayPal**.
 # Tech Used 
 This project has been completely made using pure **HTML**, **Javascript** and **CSS**.
+# Website
+ https://satyavrat14.github.io/PayPal-clone/
 # Screenshots
 ![Screenshot (131)](https://user-images.githubusercontent.com/87777380/177357367-65229537-39df-42b9-9b0c-aeb87d685c37.png)
 ![Screenshot (132)](https://user-images.githubusercontent.com/87777380/177357373-d24937b0-b0de-458d-9e83-9244930d54dd.png)
